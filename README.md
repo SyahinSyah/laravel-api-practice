@@ -13,3 +13,4 @@ Create a new post: `POST /api/posts`
 Update a post: `PUT /api/posts/{id}`
 
 Delete a post: `DELETE /api/posts/{id}`
+# laravel-api-practice
